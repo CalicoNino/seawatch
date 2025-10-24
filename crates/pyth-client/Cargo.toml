@@ -7,6 +7,12 @@ authors.workspace = true
 license.workspace = true
 homepage.workspace = true
 repository.workspace = true
-description.workspace = true
+description = "Fetches oracle prices from Pyth Network (Hermes API)."
 
 [dependencies]
+serde = { workspace = true }
+serde_json = { workspace = true }
+reqwest = { workspace = true }
+url = { workspace = true }
+strum = { workspace = true }
+strum_macros = { workspace = true }

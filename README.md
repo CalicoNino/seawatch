@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="" width="140" alt="Seawatch Logo" />
-  <h1>🌊☠️ Seawatch</h1>
-  <p><strong>Real-time Oracle Data • Analytics • Backtesting • Rust-Powered</strong></p>
-</div>
-
----
-
 ### ⚓ Overview
 
 **Seawatch** is a modular, pirate-themed Rust engine that sails the seas of on-chain data.  
